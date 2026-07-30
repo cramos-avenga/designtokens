@@ -1,2 +1,2 @@
 # designtokens
-Tokens de diseño exportado de Figma, automatizado desde Zeroheight
+Prueba de tokens automatizado desde Zeroheight
