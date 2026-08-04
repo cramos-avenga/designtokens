@@ -1,417 +1,420 @@
 {
   "Tamaños - Primitivos": {
+    "size-none": {
+      "$value": 9999,
+      "$type": "number",
+      "$extensions": {
+        "com.zeroheight.tokenId": 24574912
+      }
+    },
     "size-1920": {
       "$value": 1920,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407021
+        "com.zeroheight.tokenId": 24574911
       }
     },
     "size-1760": {
       "$value": 1760,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407020
+        "com.zeroheight.tokenId": 24574910
       }
     },
     "size-1600": {
       "$value": 1600,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407019
+        "com.zeroheight.tokenId": 24574909
       }
     },
     "size-1440": {
       "$value": 1440,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407018
+        "com.zeroheight.tokenId": 24574908
       }
     },
     "size-1360": {
       "$value": 1360,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407017
+        "com.zeroheight.tokenId": 24574907
       }
     },
     "size-1280": {
       "$value": 1280,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407016
+        "com.zeroheight.tokenId": 24574906
       }
     },
     "size-1200": {
       "$value": 1200,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407015
+        "com.zeroheight.tokenId": 24574905
       }
     },
     "size-1120": {
       "$value": 1120,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407014
+        "com.zeroheight.tokenId": 24574904
       }
     },
     "size-1024": {
       "$value": 1024,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407013
+        "com.zeroheight.tokenId": 24574903
       }
     },
     "size-0960": {
       "$value": 960,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407012
+        "com.zeroheight.tokenId": 24574902
       }
     },
     "size-0840": {
       "$value": 840,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407011
+        "com.zeroheight.tokenId": 24574901
       }
     },
     "size-0768": {
       "$value": 768,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407010
+        "com.zeroheight.tokenId": 24574900
       }
     },
     "size-0640": {
       "$value": 640,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407009
+        "com.zeroheight.tokenId": 24574899
       }
     },
     "size-0560": {
       "$value": 560,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407008
+        "com.zeroheight.tokenId": 24574898
       }
     },
     "size-0480": {
       "$value": 480,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407007
+        "com.zeroheight.tokenId": 24574897
       }
     },
     "size-0384": {
       "$value": 384,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407006
+        "com.zeroheight.tokenId": 24574896
       }
     },
     "size-0320": {
       "$value": 320,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407005
+        "com.zeroheight.tokenId": 24574895
       }
     },
     "size-0256": {
       "$value": 256,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407004
+        "com.zeroheight.tokenId": 24574894
       }
     },
     "size-0224": {
       "$value": 224,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407003
+        "com.zeroheight.tokenId": 24574893
       }
     },
     "size-0192": {
       "$value": 192,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407002
+        "com.zeroheight.tokenId": 24574892
       }
     },
     "size-0160": {
       "$value": 160,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407001
+        "com.zeroheight.tokenId": 24574891
       }
     },
     "size-0128": {
       "$value": 128,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407000
+        "com.zeroheight.tokenId": 24574890
       }
     },
     "size-0124": {
       "$value": 124,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406999
+        "com.zeroheight.tokenId": 24574889
       }
     },
     "size-0120": {
       "$value": 120,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406998
+        "com.zeroheight.tokenId": 24574888
       }
     },
     "size-0116": {
       "$value": 116,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406997
+        "com.zeroheight.tokenId": 24574887
       }
     },
     "size-0112": {
       "$value": 112,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406996
+        "com.zeroheight.tokenId": 24574886
       }
     },
     "size-0108": {
       "$value": 108,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406995
+        "com.zeroheight.tokenId": 24574885
       }
     },
     "size-0104": {
       "$value": 104,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406994
+        "com.zeroheight.tokenId": 24574884
       }
     },
     "size-0100": {
       "$value": 100,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406993
+        "com.zeroheight.tokenId": 24574883
       }
     },
     "size-0096": {
       "$value": 96,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406992
+        "com.zeroheight.tokenId": 24574882
       }
     },
     "size-0092": {
       "$value": 92,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406991
+        "com.zeroheight.tokenId": 24574881
       }
     },
     "size-0088": {
       "$value": 88,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406990
+        "com.zeroheight.tokenId": 24574880
       }
     },
     "size-0084": {
       "$value": 84,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406989
+        "com.zeroheight.tokenId": 24574879
       }
     },
     "size-0080": {
       "$value": 80,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406988
+        "com.zeroheight.tokenId": 24574878
       }
     },
     "size-0076": {
       "$value": 76,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406987
+        "com.zeroheight.tokenId": 24574877
       }
     },
     "size-0072": {
       "$value": 72,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406986
+        "com.zeroheight.tokenId": 24574876
       }
     },
     "size-0068": {
       "$value": 68,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406985
+        "com.zeroheight.tokenId": 24574875
       }
     },
     "size-0064": {
       "$value": 64,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406984
+        "com.zeroheight.tokenId": 24574874
       }
     },
     "size-0060": {
       "$value": 60,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406983
+        "com.zeroheight.tokenId": 24574873
       }
     },
     "size-0056": {
       "$value": 56,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406982
+        "com.zeroheight.tokenId": 24574872
       }
     },
     "size-0052": {
       "$value": 52,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406981
+        "com.zeroheight.tokenId": 24574871
       }
     },
     "size-0048": {
       "$value": 48,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406980
+        "com.zeroheight.tokenId": 24574870
       }
     },
     "size-0044": {
       "$value": 44,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406979
+        "com.zeroheight.tokenId": 24574869
       }
     },
     "size-0040": {
       "$value": 40,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406978
+        "com.zeroheight.tokenId": 24574868
       }
     },
     "size-0036": {
       "$value": 36,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406977
+        "com.zeroheight.tokenId": 24574867
       }
     },
     "size-0032": {
       "$value": 32,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406976
+        "com.zeroheight.tokenId": 24574866
       }
     },
     "size-0028": {
       "$value": 28,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406975
+        "com.zeroheight.tokenId": 24574865
       }
     },
     "size-0024": {
       "$value": 24,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406974
+        "com.zeroheight.tokenId": 24574864
       }
     },
     "size-0020": {
       "$value": 20,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406973
+        "com.zeroheight.tokenId": 24574863
       }
     },
     "size-0016": {
       "$value": 16,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406972
+        "com.zeroheight.tokenId": 24574862
       }
     },
     "size-0012": {
       "$value": 12,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406971
+        "com.zeroheight.tokenId": 24574861
       }
     },
     "size-0008": {
       "$value": 8,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406970
+        "com.zeroheight.tokenId": 24574860
       }
     },
     "size-0006": {
       "$value": 6,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406969
+        "com.zeroheight.tokenId": 24574859
       }
     },
     "size-0004": {
       "$value": 4,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406968
+        "com.zeroheight.tokenId": 24574858
       }
     },
     "size-0000": {
       "$value": 0,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24406967
+        "com.zeroheight.tokenId": 24574857
       }
     },
     "$extensions": {
-      "com.zeroheight.collectionId": 84516
+      "com.zeroheight.collectionId": 85107
     }
   },
   "Layout - Login": {
+    "content-width": {
+      "$value": "{Tamaños - Primitivos.size-none}"
+    },
     "gutter": {
       "$value": "{Tamaños - Primitivos.size-0016}"
     },
     "margin": {
       "$value": "{Tamaños - Primitivos.size-0016}"
     },
-    "content-width": {
-      "$value": 0,
-      "$type": "number",
-      "$extensions": {
-        "com.zeroheight.tokenId": 24407037
-      }
-    },
     "columns": {
       "$value": 4,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407032
+        "com.zeroheight.tokenId": 24574923
       }
     },
     "$extensions": {
-      "com.zeroheight.collectionId": 84517
+      "com.zeroheight.collectionId": 85108
     }
   },
   "Layout - App": {
@@ -425,40 +428,36 @@
       "$value": 12,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407053
+        "com.zeroheight.tokenId": 24574944
       }
     },
     "$extensions": {
-      "com.zeroheight.collectionId": 84518
+      "com.zeroheight.collectionId": 85109
     }
   },
   "Layout - Web": {
+    "max-width": {
+      "$value": "{Tamaños - Primitivos.size-none}"
+    },
     "gutter": {
       "$value": "{Tamaños - Primitivos.size-0016}"
     },
     "margin": {
       "$value": "{Tamaños - Primitivos.size-0016}"
     },
-    "max-width": {
-      "$value": 0,
-      "$type": "number",
-      "$extensions": {
-        "com.zeroheight.tokenId": 24407069
-      }
-    },
     "columns": {
       "$value": 4,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 24407064
+        "com.zeroheight.tokenId": 24574955
       }
     },
     "$extensions": {
-      "com.zeroheight.collectionId": 84519
+      "com.zeroheight.collectionId": 85110
     }
   },
   "$extensions": {
     "com.zeroheight.tokenSetId": 21400,
-    "com.zeroheight.tokenSetVersionId": 50100
+    "com.zeroheight.tokenSetVersionId": 50280
   }
 }
