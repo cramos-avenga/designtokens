@@ -426,16 +426,16 @@
   },
   "Grids login": {
     "gutter": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0024}"
     },
     "margin": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0032}"
     },
     "columns": {
       "$value": 4,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 25330179
+        "com.zeroheight.tokenId": 25330181
       }
     },
     "$extensions": {
@@ -453,7 +453,7 @@
       "$value": 12,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 25330195
+        "com.zeroheight.tokenId": 25330194
       }
     },
     "$extensions": {
@@ -462,16 +462,16 @@
   },
   "Grids web": {
     "gutter": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0024}"
     },
     "margin": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0024}"
     },
     "columns": {
-      "$value": 4,
+      "$value": 12,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 25330206
+        "com.zeroheight.tokenId": 25330208
       }
     },
     "$extensions": {
@@ -542,10 +542,10 @@
     },
     "h3": {
       "line-height": {
-        "$value": "{Primitive sizes.size-0024}"
+        "$value": "{Primitive sizes.size-0028}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0016}"
+        "$value": "{Primitive sizes.size-0020}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268749
@@ -553,10 +553,10 @@
     },
     "h2": {
       "line-height": {
-        "$value": "{Primitive sizes.size-0028}"
+        "$value": "{Primitive sizes.size-0032}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0020}"
+        "$value": "{Primitive sizes.size-0024}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268748
@@ -564,10 +564,10 @@
     },
     "h1": {
       "line-height": {
-        "$value": "{Primitive sizes.size-0032}"
+        "$value": "{Primitive sizes.size-0040}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0024}"
+        "$value": "{Primitive sizes.size-0032}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268747
@@ -589,10 +589,10 @@
     },
     "button": {
       "line-height": {
-        "$value": "{Primitive sizes.size-0020}"
+        "$value": "{Primitive sizes.size-0024}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0014}"
+        "$value": "{Primitive sizes.size-0016}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268745
@@ -603,7 +603,7 @@
         "$value": "{Primitive sizes.size-0020}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0012}"
+        "$value": "{Primitive sizes.size-0014}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268744
@@ -611,10 +611,10 @@
     },
     "body-1": {
       "line-height": {
-        "$value": "{Primitive sizes.size-0020}"
+        "$value": "{Primitive sizes.size-0024}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0014}"
+        "$value": "{Primitive sizes.size-0016}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268743
@@ -622,10 +622,10 @@
     },
     "amount": {
       "line-height": {
-        "$value": "{Primitive sizes.size-0028}"
+        "$value": "{Primitive sizes.size-0036}"
       },
       "size": {
-        "$value": "{Primitive sizes.size-0020}"
+        "$value": "{Primitive sizes.size-0028}"
       },
       "$extensions": {
         "com.zeroheight.tokenGroupId": 3268742

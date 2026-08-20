@@ -426,16 +426,16 @@
   },
   "Grids login": {
     "gutter": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0024}"
     },
     "margin": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0032}"
     },
     "columns": {
       "$value": 4,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 25330179
+        "com.zeroheight.tokenId": 25330181
       }
     },
     "$extensions": {
@@ -453,7 +453,7 @@
       "$value": 12,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 25330195
+        "com.zeroheight.tokenId": 25330194
       }
     },
     "$extensions": {
@@ -462,16 +462,16 @@
   },
   "Grids web": {
     "gutter": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0024}"
     },
     "margin": {
-      "$value": "{Primitive sizes.size-0016}"
+      "$value": "{Primitive sizes.size-0024}"
     },
     "columns": {
-      "$value": 4,
+      "$value": 12,
       "$type": "number",
       "$extensions": {
-        "com.zeroheight.tokenId": 25330206
+        "com.zeroheight.tokenId": 25330208
       }
     },
     "$extensions": {
